@@ -109,7 +109,6 @@ namespace Lab8
                 Console.WriteLine(matrix);
                 lastmatrix = matrix;
             }
-
         }
     }
 }
